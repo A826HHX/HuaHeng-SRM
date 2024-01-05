@@ -87,8 +87,8 @@ com.ruoyi
 
 <table>
     <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/cd1f90be5f2684f4560c9519c0f2a232ee8.jpg"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/1cbcf0e6f257c7d3a063c0e3f2ff989e4b3.jpg"/></td>
+        <td><img src="https://gitee.com/A826HHX/HuaHeng-SRM/raw/master/ruoyi-ui/src/assets/images/index.png"/></td>
+        <td><img src="https://gitee.com/A826HHX/HuaHeng-SRM/raw/master/ruoyi-ui/src/assets/images/material.png"/></td>
     </tr>
     <tr>
         <td><img src="https://oscimg.oschina.net/oscnet/up-8074972883b5ba0622e13246738ebba237a.png"/></td>
