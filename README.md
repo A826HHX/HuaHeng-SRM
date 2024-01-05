@@ -91,16 +91,16 @@ com.ruoyi
         <td><img src="https://gitee.com/A826HHX/HuaHeng-SRM/raw/master/ruoyi-ui/src/assets/images/material.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-8074972883b5ba0622e13246738ebba237a.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-9f88719cdfca9af2e58b352a20e23d43b12.png"/></td>
+        <td><img src="https://gitee.com/A826HHX/HuaHeng-SRM/raw/master/ruoyi-ui/src/assets/images/materialRequirement.png"/></td>
+        <td><img src="https://gitee.com/A826HHX/HuaHeng-SRM/raw/master/ruoyi-ui/src/assets/images/orderManager.png"/></td>
     </tr>
     <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-39bf2584ec3a529b0d5a3b70d15c9b37646.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-4148b24f58660a9dc347761e4cf6162f28f.png"/></td>
+        <td><img src="https://gitee.com/A826HHX/HuaHeng-SRM/raw/master/ruoyi-ui/src/assets/images/procurementTasks.png"/></td>
+        <td><img src="https://gitee.com/A826HHX/HuaHeng-SRM/raw/master/ruoyi-ui/src/assets/images/requirementAnalysis.png"/></td>
     </tr>
 	<tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-b2d62ceb95d2dd9b3fbe157bb70d26001e9.png"/></td>
-        <td><img src="https://oscimg.oschina.net/oscnet/up-d67451d308b7a79ad6819723396f7c3d77a.png"/></td>
+        <td><img src="https://gitee.com/A826HHX/HuaHeng-SRM/raw/master/ruoyi-ui/src/assets/images/supplier.png"/></td>
+        <td><img src="https://gitee.com/A826HHX/HuaHeng-SRM/raw/master/ruoyi-ui/src/assets/images/supplierInfo.png"/></td>
     </tr>	 
     <tr>
         <td><img src="https://oscimg.oschina.net/oscnet/5e8c387724954459291aafd5eb52b456f53.jpg"/></td>
